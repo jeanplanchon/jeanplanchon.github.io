@@ -1,0 +1,22 @@
+body{
+background-color: magenta ;	
+background-image: url(../image/tnfm.jpg);
+}
+.centrage{
+margin:auto;
+text-align:center;
+}
+
+.couleur{
+color:#32FF4B;
+font-weight:600;
+}
+
+#color{
+background-color: cyan ;	
+}
+.picture{
+margin-top: 10px ; 
+width:50%
+}
+
